@@ -12,4 +12,4 @@ target
 log.txt
 /hs_err_pid*.log
 .idea
-
+*target
