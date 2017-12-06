@@ -1,12 +1,12 @@
 /**/target
 *.log
 /Build/*
-.settings
-.classpath
+*.settings
+*.classpath
 .project
 *.iml
 *.class
-target
+*/target
 .DS_Store
 /.project
 log.txt
