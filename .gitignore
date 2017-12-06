@@ -1,3 +1,15 @@
 /target
 *.log
 /Build/*
+.settings
+.classpath
+.project
+*.iml
+*.class
+target
+.DS_Store
+/.project
+log.txt
+/hs_err_pid*.log
+.idea
+
